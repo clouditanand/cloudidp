@@ -1,10 +1,10 @@
 <div align="center">
-    <a href="https://cloudplinth.com">
+    <a href="https://idp.cloudplinth.com">
         <img src="https://cloudplinth.com/wp-content/uploads/2023/04/CloudPlinth_logo-removebg-preview.png" height="128">
     </a>
-    <h2>ERPNext</h2>
+    <h2>Cloud IDP</h2>
     <p align="center">
-        <p>ERP made simple</p>
+        <p>AI Based ERP System. </p>
     </p>
 
 [![CI](https://github.com/frappe/erpnext/actions/workflows/server-tests.yml/badge.svg?branch=develop)](https://github.com/frappe/erpnext/actions/workflows/server-tests.yml)
